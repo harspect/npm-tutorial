@@ -4,7 +4,7 @@ name: Deploy build
 
 on:
   push:
-    branches: main
+    branches: master
   # Enable manual deploys from the Actions tab
   workflow_dispatch:
 
